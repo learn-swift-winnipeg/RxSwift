@@ -2,7 +2,7 @@
 
 This should work. The steps are there for starting from an empty directory. All of these steps have been completed. 
 
-- *NOTE* 1 exception is 
+- *NOTE:* 1 exception is 
  ``` pod install ```
 
 may need to be ran
