@@ -1,5 +1,13 @@
 # Creating RxSwift Project
 
+This should work. The steps are there for starting from an empty directory. All of these steps have been completed. 
+
+- *NOTE* 1 exception is 
+ ``` pod install ```
+
+may need to be ran
+
+
 *To Start:*
 1)   create a Podile
 this can be done with vim, and this is the defualt 
