@@ -18,6 +18,7 @@ target 'testproj' do
    pod 'RxCocoa', '~> 3.0'
   end
   ```
+*NOTE:* change testproj to the directory where the Podfile lives
   
 2) run pod install
 ```
